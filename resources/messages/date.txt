@@ -1,8 +1,8 @@
-Виберіть дівчину/хлопця, яку/якого бажаєте запросити на побачення.
+Select girl/boy you want to invite for a date.
 
-*Список доступних профілів:*
-1. Аріана Гранде 🔥 (складність 5/10)
-4. Марго Роббі 🔥🔥 (складність 7/10)
-3. Зендея 🔥🔥🔥 (складність 10/10)
-4. Райан Гослінг 😎 (складність 7/10)
-5. Том Харді 😎😎 (складність 10/10)
+*List of available profiles:*
+1. Ariana Grande 🔥 (difficulty 5/10)
+4. Margot Robbie 🔥🔥 (difficulty 7/10)
+3. Zendeya 🔥🔥🔥 (difficulty 10/10)
+4. Ryan Gosling 😎 (difficulty 7/10)
+5. Tom Hardy 😎😎 (difficulty 10/10)

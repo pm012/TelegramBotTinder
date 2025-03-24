@@ -1,16 +1,16 @@
-Привіт! Цей бот поєднує в собі зручність *Telegram*, потужність *ChatGPT* і фан *Tinder*.
+Hi! This bot is as user-friendly as *Telegram*, is powerful as *ChatGPT* and it is fun as *Tinder*.
 
-*Чатбот вміє*:
-1. Генерувати Tinder-профіль за описом 😎
-2. Писати цікаві та інтригуючі повідомлення для знайомства. 😘
-3. Вести листування від вашого імені 😇🔥
-4. Ви можете тренуватися у листуванні з чат-ботом. 🥰
+*Chat bot can do following*:
+1. Generate Tinder-profile using the description 😎
+2. Write interesting and amazing messages for dating. 😘
+3. Provide conversation from your person 😇🔥
+4. You can practice messaging with chatbot. 🥰
 
 
-*Корисні команди та посилання:*
-1. /start - головне меню бота
-2. /profile - генерація Tinder-профілю 😎
-3. /opener - повідомлення для знайомства 🥰
-4. /message - листування від вашого імені 😈
-5. /date - листування із зірками 🔥
-6. /gpt - поставити запитання чату GPT 🧠
+*Useful commands and links:*
+1. /start - bot main menu
+2. /profile - generate Tinder-profile 😎
+3. /opener - message for dating 🥰
+4. /message - messaging from your person 😈
+5. /date - chatting with stars 🔥
+6. /gpt - ask GPT chat a question🧠
